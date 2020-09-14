@@ -1,5 +1,5 @@
 
-**Тествовое задание на  [вакансию](https://krasnodar.hh.ru/vacancy/39081796)**
+**Тестововое задание на  [вакансию](https://krasnodar.hh.ru/vacancy/39081796)**
 
 Используя  [API](https://newsapi.org) сервиса
 
