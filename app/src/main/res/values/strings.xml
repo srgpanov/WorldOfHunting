@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WorldOfHunting</string>
+    <string name="error_message">Something goes wrong</string>
+</resources>
